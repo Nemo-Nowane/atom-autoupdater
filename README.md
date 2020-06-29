@@ -20,6 +20,8 @@ __If you have Atom included in your disto's official repository and don't want t
 
 # Getting started
 Download the repository in compressed format or run the command
+```wget https://github.com/Nemo-Nowane/atom-autoupdater/archive/master.zip```
+Then run ``./initialise```
 
 # Example
 
